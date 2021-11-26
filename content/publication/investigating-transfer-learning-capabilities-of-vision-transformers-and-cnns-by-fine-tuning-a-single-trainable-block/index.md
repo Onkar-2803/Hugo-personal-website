@@ -2,7 +2,7 @@
 title: Investigating Transfer Learning Capabilities of Vision Transformers and
   CNNs by Fine-Tuning a Single Trainable Block
 publication_types:
-  - "3"
+  - "1"
 authors:
   - Durvesh Malpure
   - Onkar Litake
