@@ -44,4 +44,7 @@ url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
+
+links:
+url_pdf: https://arxiv.org/ftp/arxiv/papers/2110/2110.05270.pdf
 ---
