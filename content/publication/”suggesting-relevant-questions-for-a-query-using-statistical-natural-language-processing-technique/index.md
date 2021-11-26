@@ -1,5 +1,5 @@
 ---
-title: ”Suggesting Relevant Questions for a Query using Statistical Natural
+title: Suggesting Relevant Questions for a Query using Statistical Natural
   Language Processing Technique
 publication_types:
   - "3"
