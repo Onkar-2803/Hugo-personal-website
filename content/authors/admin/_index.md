@@ -1,7 +1,7 @@
 ---
 title: Onkar Litake
 role: Student at Pune Institute of Computer Technology
-avatar_filename: https://drive.google.com/file/d/1G_lITCdo4zinC-Xy5cpZuE2yEOhD8Vcc/view?usp=sharing
+avatar_filename: pic-small.jpg
 bio: My research interests include Machine Learning, Deep Learning, Natural
   Language Processing, Computer Vision.
 interests:
