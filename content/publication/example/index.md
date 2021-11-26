@@ -3,7 +3,7 @@ title: Analyzing Architectures for Neural Machine Translation using Low
   Computational Resources
 subtitle: ""
 publication_types:
-  - "1"
+  - "3"
 authors:
   - Aditya Mandke
   - Onkar Litake
