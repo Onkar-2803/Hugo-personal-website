@@ -16,7 +16,7 @@ content:
     - name: Other
       tag: Demo
 design:
-  columns: "1"
+  columns: "2"
   view: 2
   flip_alt_rows: false
 ---
