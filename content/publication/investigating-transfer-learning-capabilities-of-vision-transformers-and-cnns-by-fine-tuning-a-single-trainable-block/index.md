@@ -30,7 +30,7 @@ abstract: >
   architectures not only achieve higher accuracy than CNNs
 
   but some transformers even achieve this feat with around 4 times lesser number of parameters.
-draft: true
+draft: false
 featured: false
 image:
   filename: featured.png
