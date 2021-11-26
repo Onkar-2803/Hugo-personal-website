@@ -11,19 +11,19 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: jr.onkarlitake@gmail.com
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Onkar2803
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=19OfMHYAAAAJ&hl=en&authuser=1
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Onkar-2803
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/onkar-litake-80863516b/
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
