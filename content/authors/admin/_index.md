@@ -45,4 +45,4 @@ My research focuses on Natural Language Processing for low resources languages a
 
 <!--EndFragment-->
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Onkar_Litake.pdf" "newtab" >}}resumé{{< /staticref >}}.
