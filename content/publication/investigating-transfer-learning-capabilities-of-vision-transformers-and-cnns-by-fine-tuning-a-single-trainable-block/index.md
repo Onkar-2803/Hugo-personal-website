@@ -2,7 +2,7 @@
 title: Investigating Transfer Learning Capabilities of Vision Transformers and
   CNNs by Fine-Tuning a Single Trainable Block
 publication_types:
-  - "1"
+  - "3"
 authors:
   - Durvesh Malpure
   - Onkar Litake
@@ -10,8 +10,8 @@ authors:
 author_notes:
   - Equal Contribution
   - Equal Contribution
-publication: asd
-publication_short: asd
+publication: arXiv
+publication_short: arXiv
 abstract: >
   In recent developments in the field of Computer Vision, a rise is seen in the
   use of transformer-based architectures. They are surpassing the
@@ -33,7 +33,7 @@ abstract: >
 draft: false
 featured: false
 tags:
-  - pdf
+  - PDF
 image:
   filename: featured.png
   focal_point: Smart
