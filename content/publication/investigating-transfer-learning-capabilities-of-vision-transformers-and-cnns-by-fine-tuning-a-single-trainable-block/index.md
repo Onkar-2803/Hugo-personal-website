@@ -10,6 +10,8 @@ authors:
 author_notes:
   - Equal Contribution
   - Equal Contribution
+publication: asd
+publication_short: asd
 abstract: >
   In recent developments in the field of Computer Vision, a rise is seen in the
   use of transformer-based architectures. They are surpassing the
