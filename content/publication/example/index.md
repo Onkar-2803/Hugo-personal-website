@@ -24,9 +24,7 @@ projects:
   - example
 slides: example
 url_pdf: ""
-summary: With the recent developments in the field of Natural Language
-  Processing, there has been a rise in the use of different architectures for
-  Neural Machine Translation
+summary: ""
 url_dataset: ""
 url_project: ""
 url_source: ""
@@ -41,7 +39,7 @@ tags: []
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
   filename: featured.png
 date: 2013-07-01T00:00:00.000Z
 url_slides: ""
