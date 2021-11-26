@@ -36,7 +36,6 @@ tags: []
 
 links:
 - name: Custom Link
-  url: http://example.org
 url_pdf: https://arxiv.org/ftp/arxiv/papers/2110/2110.05270.pdf
 
 image:
