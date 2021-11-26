@@ -43,6 +43,8 @@ I am a fourth year undergraduate pursuing Computer Science along with Honors deg
 
 My research focuses on Natural Language Processing for low resources languages and Computer Vision.  
 
+I am currently conducting research on Neural Machine Translation, Named Entity Recognition and 3D Image Reconstruction.
+
 <!--EndFragment-->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Onkar_Litake.pdf" "newtab" >}}resumé{{< /staticref >}}.
