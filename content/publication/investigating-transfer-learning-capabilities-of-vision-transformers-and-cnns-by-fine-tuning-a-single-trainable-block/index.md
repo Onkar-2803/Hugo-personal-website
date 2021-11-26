@@ -10,6 +10,7 @@ authors:
 author_notes:
   - Equal Contribution
   - Equal Contribution
+doi: October 2021
 publication: In arXiv
 publication_short: In arXiv
 abstract: >
@@ -31,15 +32,13 @@ abstract: >
 
   but some transformers even achieve this feat with around 4 times lesser number of parameters.
 draft: false
+url_pdf: https://arxiv.org/ftp/arxiv/papers/2110/2110.05270.pdf
 featured: false
 tags: []
-
-links:
-url_pdf: https://arxiv.org/ftp/arxiv/papers/2110/2110.05270.pdf
-
+date: 2021-11-26T17:04:02.769Z
+links: null
 image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-date: 2021-11-26T17:04:02.769Z
 ---
