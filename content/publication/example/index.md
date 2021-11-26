@@ -19,9 +19,8 @@ abstract: >-
   setups consisting of high-end GPUs and other resources. We train our models on low computational resources and investigate the results. As expected, transformers outperformed other architectures, but there were some surprising results. Transformers consisting of more encoders and decoders took more time to train but had fewer BLEU scores. LSTM performed well in the experiment and took comparatively less time to train than transformers, making it suitable to use in situations having time constraints.
 draft: false
 featured: false
-projects:
-  - example
-slides: example
+projects: []
+slides: ""
 url_pdf: ""
 summary: ""
 url_dataset: ""
