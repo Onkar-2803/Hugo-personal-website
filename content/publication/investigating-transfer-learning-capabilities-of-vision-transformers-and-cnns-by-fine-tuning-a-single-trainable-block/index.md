@@ -10,8 +10,8 @@ authors:
 author_notes:
   - Equal Contribution
   - Equal Contribution
-publication: arXiv
-publication_short: arXiv
+publication: In arXiv
+publication_short: In arXiv
 abstract: >
   In recent developments in the field of Computer Vision, a rise is seen in the
   use of transformer-based architectures. They are surpassing the
@@ -32,11 +32,10 @@ abstract: >
   but some transformers even achieve this feat with around 4 times lesser number of parameters.
 draft: false
 featured: false
-tags:
-  - PDF
+tags: []
 image:
   filename: featured.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 date: 2021-11-26T17:04:02.769Z
 ---
