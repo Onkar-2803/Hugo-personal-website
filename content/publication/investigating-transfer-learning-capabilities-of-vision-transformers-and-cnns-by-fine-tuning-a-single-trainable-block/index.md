@@ -36,6 +36,6 @@ tags: []
 image:
   filename: featured.png
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 date: 2021-11-26T17:04:02.769Z
 ---
