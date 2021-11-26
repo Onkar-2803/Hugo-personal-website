@@ -1,6 +1,6 @@
 ---
 widget: about
-widget_id: Chnaged-photo
+widget_id: Background-image
 headless: true
 weight: 20
 title: Biography
@@ -10,4 +10,5 @@ design:
   background:
     text_color_light: false
     image: ""
+    image_darken: 0.2
 ---
