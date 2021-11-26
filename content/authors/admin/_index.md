@@ -27,15 +27,12 @@ social:
 organizations: []
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Bachelor of Engineering - Computer Engineering
+      institution: "SCTR's Pune Institute of Computer Technology "
+      year: 2018
+    - course: "H.S.C. - Science "
+      institution: P. JOG Junior College
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
