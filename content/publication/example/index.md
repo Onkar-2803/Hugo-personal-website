@@ -1,8 +1,7 @@
 ---
 title: Analyzing Architectures for Neural Machine Translation using Low
-  Computational REsources
-subtitle: Trained various models on low computational settings and documented
-  the results.
+  Computational Resources
+subtitle: ""
 publication_types:
   - "1"
 authors:
