@@ -39,7 +39,7 @@ highlight_name: true
 ---
 <!--StartFragment-->
 
-I am a fourth year undergraduate pursuing Computer Science along with Honors degree in Machine Learning & Artificial Intelligence at SCTR'S Pune Institute of Computer Technology.  I have been working as an undergraduate research assistant under Prof. Rajesh Ingle and Prof. Dipali Kadam. I have also worked closely with Mr. Raviraj Joshi.
+I am a fourth year undergraduate pursuing Computer Science along with Honors degree in Machine Learning & Artificial Intelligence at SCTR'S Pune Institute of Computer Technology.  I have been working as an undergraduate research assistant under [Prof. Rajesh Ingle](http://www.rbingle.in/) and Prof. Dipali Kadam. I have also worked closely with [Mr. Raviraj Joshi](https://scholar.google.com/citations?user=6Zf_5SAAAAAJ&hl=en).
 
 My research focuses on Natural Language Processing for low resources languages and Computer Vision.  
 
