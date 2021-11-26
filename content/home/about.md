@@ -9,5 +9,5 @@ author: admin
 design:
   background:
     text_color_light: false
-    image: passport-size-photo.jpg
+    image: ""
 ---
