@@ -32,6 +32,8 @@ abstract: >
   but some transformers even achieve this feat with around 4 times lesser number of parameters.
 draft: false
 featured: false
+tags:
+  - pdf
 image:
   filename: featured.png
   focal_point: Smart
