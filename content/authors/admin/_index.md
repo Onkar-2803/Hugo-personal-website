@@ -6,8 +6,8 @@ bio: My research interests include Machine Learning, Deep Learning, Natural
   Language Processing, Computer Vision.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Natural Language Processing
+  - Computer Vision
 social:
   - icon: envelope
     icon_pack: fas
